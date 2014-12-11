@@ -10,6 +10,13 @@ This workflow allows you to turn any GitHub repository into a simple but powerfu
 - points and meta data are assigned to items as **labels**
 - **milestones** are used to group issues in sprints
 
+## Why
+
+- It's free
+- It's simple
+- It's fast
+- It works
+
 ## 1. Create issues as backlog items
 
 To create a new backlog item, just create a new issue.
@@ -64,6 +71,20 @@ You can define and assign custom labels that you need within your workflow or or
 
 You can create a milestone for every sprint and add items (issues) from the backlog to a milestone.
 
-This allows you to group items in sprints and track them by milestone in the issue dashboard.
+This allows you to group items in sprints and track them by milestone in your [issue dashboard](https://github.com/issues).
 
-Your backlog then consists of all items (issues) that have no `milestone` attached to it.
+The backlog then consists of all items (issues) that have no `milestone` attached to it.
+
+**TIP**: Use `no:milestone` in the search field on your [issue dashboard](https://github.com/issues) to find backlog items.
+
+## Helpful links
+
+- [Mastering GitHub issues](https://guides.github.com/features/issues/)
+- [Mastering GitHub markdown](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+
+## Change log
+
+### v1.0.0
+
+- Added documentation for issues, labels and milestones.
