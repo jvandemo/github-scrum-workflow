@@ -2,13 +2,15 @@
 
 This workflow allows you to turn any GitHub repository into a simple but powerful agile work environment.
 
+![codercat](https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg)
+
 ## How it works
 
 - items are reported as **issues**
 - points and meta data are assigned to items as **labels**
 - **milestones** are used to group issues in sprints
 
-## Issues
+## 1. Create issues as backlog items
 
 To create a new backlog item, just create a new issue.
 
@@ -16,13 +18,13 @@ Once a new issue has been created, assign it the right labels and/or assign it t
 
 Issues allow you to have a conversation about the item and even allow you to create task lists inside the issue using [GitHub's markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Labels
+## 2. Add labels to issues
 
 Add the following labels to your repository:
 
 ### Priorities
 
-`priority` labels allow you to prioritize items in your backlog:
+`priority` labels allow you to prioritize items in your backlog e.g.:
 
 - `priority: lowest`
 - `priority: low`
@@ -44,7 +46,7 @@ Add the following labels to your repository:
 
 ### Types
 
-`type` labels allow you to easily filter items (issues) in the dashboard:
+`type` labels allow you to easily filter items (issues) in the dashboard e.g.:
 
 - `type:bug`: bug
 - `type:chore`: chore, maintenance work
@@ -54,7 +56,7 @@ Add the following labels to your repository:
 - `type:refactor`: refactor
 - `type:test`: test related
 
-## Milestones
+## 3. Define spints as milestones
 
 You can create a milestone for every sprint and add items (issues) from the backlog to a milestone.
 
