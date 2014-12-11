@@ -34,7 +34,7 @@ Add the following labels to your repository:
 
 ### Points
 
-`point` labels allow you to to assign velocity points to individual items (issues) e.g.:
+`point` labels allow you to to assign velocity points to individual items (issues) e.g. using [Fibonacci numbers](http://en.wikipedia.org/wiki/Fibonacci_number):
 
 - `point: 1`
 - `point: 2`
@@ -55,6 +55,10 @@ Add the following labels to your repository:
 - `type:performance`: performance related
 - `type:refactor`: refactor
 - `type:test`: test related
+
+### Other
+
+You can define and assign custom labels that you need within your workflow or organization.
 
 ## 3. Define sprints as milestones
 
