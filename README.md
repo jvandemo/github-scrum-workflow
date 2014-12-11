@@ -1,6 +1,8 @@
 # GitHub scrum workflow
 
-This workflow allows you to turn any GitHub repository into a simple but powerful agile work environment.
+Turn any GitHub repository into a simple but powerful agile work environment.
+
+**Free**, **simple** and **fast** so you can focus on the actual coding!
 
 ![codercat](https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg)
 
@@ -9,13 +11,6 @@ This workflow allows you to turn any GitHub repository into a simple but powerfu
 - items are reported as **issues**
 - points and meta data are assigned to items as **labels**
 - **milestones** are used to group issues in sprints
-
-## Why
-
-- It's free
-- It's simple
-- It's fast
-- It works
 
 ## 1. Create issues as backlog items
 
