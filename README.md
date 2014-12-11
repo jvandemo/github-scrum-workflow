@@ -56,7 +56,7 @@ Add the following labels to your repository:
 - `type:refactor`: refactor
 - `type:test`: test related
 
-## 3. Define spints as milestones
+## 3. Define sprints as milestones
 
 You can create a milestone for every sprint and add items (issues) from the backlog to a milestone.
 
