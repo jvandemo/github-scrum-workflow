@@ -72,6 +72,12 @@ The backlog then consists of all items (issues) that have no `milestone` attache
 
 **TIP**: Use `no:milestone` in the search field on your [issue dashboard](https://github.com/issues) to find backlog items.
 
+## Overview
+
+![en_overview](https://cloud.githubusercontent.com/assets/1859381/5411950/c44c229e-8207-11e4-915f-d31ccd66c5bd.png)
+
+Image: [Scrum primer](http://www.scrumprimer.org/overview).
+
 ## Helpful links
 
 - [Mastering GitHub issues](https://guides.github.com/features/issues/)
