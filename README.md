@@ -101,3 +101,7 @@ Image: [Scrum primer](http://www.scrumprimer.org/overview).
 ### v1.0.0
 
 - Added documentation for issues, labels and milestones.
+
+### v1.0.1
+
+- Added summary
