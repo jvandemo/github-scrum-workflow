@@ -1,10 +1,22 @@
+<img src="https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg" alt="codecat" align="right">
+
 # GitHub scrum workflow
 
 Turn any GitHub repository into a simple but powerful agile work environment.
 
 **Free**, **simple** and **fast** so you can focus on the actual coding!
 
-![codercat](https://cloud.githubusercontent.com/assets/1859381/5397698/9972fe22-815c-11e4-8be6-21e1d0d05849.jpg)
+**Summary:**
+
++ [How it works](#how-it-works)
++ [1. Create issues as backlog items](#1-create-issues-as-backlog-items)
++ [2. Add labels to issues](#2-add-labels-to-issues)
++ [3. Define sprints as milestones](#3-define-sprints-as-milestones)
++ [Overview](#overview)
++ [Helpful links](#helpful-links)
++ [Change log](#change-log)
+
+---
 
 ## How it works
 
@@ -89,3 +101,7 @@ Image: [Scrum primer](http://www.scrumprimer.org/overview).
 ### v1.0.0
 
 - Added documentation for issues, labels and milestones.
+
+### v1.0.1
+
+- Added summary
